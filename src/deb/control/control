@@ -1,0 +1,8 @@
+Package: [[name]]
+Version: [[version]]
+Section: misc
+Priority: low
+Depends: openjdk-8-jre-headless | java8-runtime
+Architecture: all
+Description: jttapi
+Maintainer: stech
